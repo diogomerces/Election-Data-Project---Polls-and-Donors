@@ -1,7 +1,7 @@
 # Election-Data-Project---Polls-and-Donors
-In this Data Project we will be looking at data from the 2012 election. 
+In this Data Project I will be looking at data from the 2012 election. 
 
-In this project we will analyze two datasets. The first data set will be the results of political polls. We will analyze this aggregated poll data and answer some questions:
+In this project I will analyze two datasets. The first data set will be the results of political polls. I will analyze this aggregated poll data and answer some questions:
 
 1.) Who was being polled and what was their party affiliation?
 
